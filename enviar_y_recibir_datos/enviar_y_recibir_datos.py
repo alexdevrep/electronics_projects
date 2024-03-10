@@ -1,3 +1,22 @@
+'''
+  Script en python para controlar un LED mediante una resistencia LDR.
+
+  Este programa nos permite controlar el estado de un LED mediante la lectura
+  e interpretación de los valores recibidos por una LDR, esto es un ejemplo
+  básico donde el pricipal objetivo es el de poder enviar y recibir datos 
+  del arduino a través del puerto serie
+
+  Autor: Alexdevrep
+  Fecha: 10/03/2024
+  Más contenido interesante en:
+    -Github: https://github.com/alexdevrep
+    -Instagram: https://www.instagram.com/alexdevrep/
+    -Mi blog de Wordpress: https://eltallerdealexdevrep.000webhostapp.com/
+'''
+
+
+
+
 
 #Importamos las librerías necesarias
 import serial
