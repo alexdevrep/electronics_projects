@@ -6,7 +6,7 @@
   que suman o restan una unidad a la variable de control (i)
 
   Autor: Alexdevrep
-  Fecha: 18/10/2024
+  Fecha: 24/3/2024
   Más contenido interesante en :
     -GitHub: https://www.github.com/alexdevrep
     -Instagram: https://www.instagram.com/alexdevrep/
@@ -29,6 +29,7 @@
 #define LED5 32
 #define LED6 64
 
+
 /*
   Creamos la combinación de leds que forman los números decimales en nuestro display
   ver documentación completa ya que puede variar en función de como hayas conectado 
@@ -43,7 +44,6 @@
 #define numero5 LED1 + LED4
 #define numero6 LED1
 #define numero7 LED3 + LED4 + LED5 + LED6
-#define numero8 
 #define numero9 LED4
 #define error   LED1 + LED2
 
@@ -113,7 +113,7 @@ void escribirNumeros(int i){
       break;
     case 8:
       digitalWrite(RCLK, LOW);
-      //shiftOut(SER,SRCLK,MSBFIRST,numero8);
+      shiftOut(SER,SRCLK,MSBFIRST,LOW);
       digitalWrite(RCLK, HIGH);
       break;
     case 9:
