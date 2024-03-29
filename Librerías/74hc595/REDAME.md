@@ -19,7 +19,7 @@
 
 Puedes Comprobar el esquema de conexionado para ambos displays en:
 
--
+- <a href="https://eltallerdealexdevrep.000webhostapp.com/presentacion-de-la-libreria-74hc595-h/">Entrada de la librería</a>
 
 
 ---
@@ -56,3 +56,4 @@ La librería trae 2 ejemplos de uso donde se ven todos los métodos disponibles
 un ejemplo para displays de ánodo común y otro para displays de cátodo común.
 
 Puedes verlo y descargarlo directamente pinchando en el siguiente enlace:
+- <a href="https://github.com/alexdevrep/electronics_projects/edit/main/Librer%C3%ADas/74hc595/ejemplos">Ejemplos de uso</a>
