@@ -71,7 +71,7 @@ while True:
 
 
 #Creamos el archivo txt
-archivo = open("keywords.txt","x")
+archivo = open("keywords.txt","x")#Añade la ruta de tu archivo
 archivo.close()
 
 #Cambiamos el archivo a modo escritura
