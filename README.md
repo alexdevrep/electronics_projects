@@ -1,7 +1,7 @@
 # 🛠️ electronics_projects
 ¡Bienvenido al repositorio electronics_projects!
 
-Este repositorio contiene una colección de proyectos de electrónica diseñados para enseñar y demostrar diversas técnicas y aplicaciones utilizando componentes electrónicos y programación en Python. Cada proyecto incluye un conjunto detallado de instrucciones, código fuente y esquemas necesarios para replicar y aprender de los proyectos.
+Este repositorio contiene una colección de proyectos de electrónica diseñados para enseñar y demostrar diversas técnicas y aplicaciones utilizando componentes electrónicos y programación. Cada proyecto incluye un conjunto detallado de instrucciones, código fuente y esquemas necesarios para replicar y aprender de los proyectos.
 
 Ya seas un estudiante, un entusiasta de la electrónica o un profesional buscando expandir tus conocimientos, encontrarás aquí una variedad de proyectos que cubren desde los conceptos básicos hasta aplicaciones más avanzadas.
 Características principales:
