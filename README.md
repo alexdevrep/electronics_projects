@@ -95,7 +95,7 @@ Creación de un punto de acceso para dispositivos a través de TCP/IP con un ESP
 Para cada proyecto, por favor sigue los enlaces de documentación proporcionados para obtener instrucciones detalladas sobre cómo instalar y usar cada uno.
 
 ## Licencia
-Este proyecto está bajo la licencia GNU - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto está bajo la licencia GNU - ver el archivo [LICENSE.md](LICENSE) para más detalles.
 
 
 
