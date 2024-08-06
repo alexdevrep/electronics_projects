@@ -1,5 +1,9 @@
 # 🛠️ electronics_projects
 ¡Bienvenido al repositorio electronics_projects!
+<div align="center">
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](#)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alejandro-díaz-sastre-0b0a3b213)
+</div>
 
 Este repositorio contiene una colección de proyectos de electrónica diseñados para enseñar y demostrar diversas técnicas y aplicaciones utilizando componentes electrónicos y programación. Cada proyecto incluye un conjunto detallado de instrucciones, código fuente y esquemas necesarios para replicar y aprender de los proyectos.
 
