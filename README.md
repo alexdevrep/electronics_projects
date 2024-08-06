@@ -1,10 +1,14 @@
 # 🛠️ electronics_projects
 ¡Bienvenido al repositorio electronics_projects!
-<div align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](#)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alejandro-díaz-sastre-0b0a3b213)
-</div>
+<div align= "center">
 
+[![Arduino Badge](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white)]()
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
+[![MicroPython Badge](https://img.shields.io/badge/-MicroPython-2B2728?style=flat-square&logo=MicroPython&logoColor=white)]()
+[![cplusplus Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)]()
+[![KiCaD Badge](https://img.shields.io/badge/-kicad-314CB0?style=flat-square&logo=KiCaD&logoColor=white)]()
+
+</div>
 Este repositorio contiene una colección de proyectos de electrónica diseñados para enseñar y demostrar diversas técnicas y aplicaciones utilizando componentes electrónicos y programación. Cada proyecto incluye un conjunto detallado de instrucciones, código fuente y esquemas necesarios para replicar y aprender de los proyectos.
 
 Ya seas un estudiante, un entusiasta de la electrónica o un profesional buscando expandir tus conocimientos, encontrarás aquí una variedad de proyectos que cubren desde los conceptos básicos hasta aplicaciones más avanzadas.
