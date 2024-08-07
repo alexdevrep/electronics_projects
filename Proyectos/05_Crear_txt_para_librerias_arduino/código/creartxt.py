@@ -6,8 +6,8 @@
     Más contenido interesante en:
         -GitHub: https://www.github.com/alexdevrep
         -Instagram: https://www.instagram.com/alexdevrep/
-        -Mi blog de Wordpress: https://www.eltallerdealexdevrep.000webhostapp.com/
-        -Youtube: https://www.youtube.com/channel/UCNlqgVY-CaQ2Lgc5xJChaKA
+        -WordPress: https://eltallerdealexdevrep.com
+    	-Youtube: https://www.youtube.com/channel/UCNlqgVY-CaQ2Lgc5xJChaKA
 
 '''
 
