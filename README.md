@@ -46,56 +46,56 @@ En este proyecto controlamos el estado de un diodo LED con el teclado y un scrip
 ### 2. Control de un LED mediante LDR y Python
 Controlamos el estado de un LED a través del valor medido en un LDR, usando Python como script principal.
 
-[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](#) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/comunicar-sensores-con-python/)
+[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](https://github.com/alexdevrep/electronics_projects/releases/download/Proyecto_02/02_enviar_y_recibir_datos.zip) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/comunicar-sensores-con-python/)
 
 ---
 
 ### 3. Contador decimal con display de cátodo común
 Creamos un contador decimal usando el circuito integrado 74HC595 y un display de cátodo común.
 
-[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](#) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/contador-decimal-con-74hc595-y-7-segmentos/)
+[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](https://github.com/alexdevrep/electronics_projects/releases/download/Proyecto_03/03_Contador_decimal_cc.zip) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/contador-decimal-con-74hc595-y-7-segmentos/)
 
 ---
 
 ### 4. Contador decimal con display de ánodo común
 Creamos un contador decimal usando el circuito integrado 74HC595 y un display de ánodo común.
 
-[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](#) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/contador-decimal-con-74hc795-y-display-anodo-comun/)
+[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](https://github.com/alexdevrep/electronics_projects/releases/download/Proyecto_04/04_Contador_decimal_ac.zip) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/contador-decimal-con-74hc795-y-display-anodo-comun/)
 
 ---
 
 ### 5. Generador de archivos txt para librerías de Arduino
 Script en Python que nos genera un txt para que las palabras claves de nuestras librerías sean reconocidas por el IDE de Arduino.
 
-[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](#) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](#)
+[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)]([#](https://github.com/alexdevrep/electronics_projects/releases/download/Proyecto_05/05_Crear_txt_para_librerias_arduino.zip)) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](#)
 
 ---
 
 ### 6. Módulo PCF8574 multidireccional
 Expansor de entradas y salidas digitales para cualquier tipo de microcontrolador de Arduino que acepta cualquier tipo de dirección.
 
-[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](#) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/modulo-pcf8574/)
+[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](https://github.com/alexdevrep/electronics_projects/releases/download/Proyecto_06/06_Modulo_pcf8574_multidireccional.zip) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/modulo-pcf8574/)
 
 ---
 
 ### 7. Regulador de voltaje 5v
 Regulador de voltaje usando el integrado 7805.
 
-[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](#) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/regulador-voltaje-7805/)
+[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](https://github.com/alexdevrep/electronics_projects/releases/download/Proyecto_07/07_Regulador_7805.zip) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/regulador-voltaje-7805/)
 
 ---
 
 ### 8. Expansor I/O para el ESP8266
 Expansor de entradas y salidas tanto analógicas como digitales para el ESP8266.
 
-[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](#) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/category/electronica/expansor-i-o-esp8266/)
+[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](https://github.com/alexdevrep/electronics_projects/releases/download/Proyecto_08/08_Expasor_ESP8266.zip) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/category/electronica/expansor-i-o-esp8266/)
 
 ---
 
 ### 9. ESP8266 Access Point
 Creación de un punto de acceso para dispositivos a través de TCP/IP con un ESP8266.
 
-[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](#) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](#)
+[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](https://github.com/alexdevrep/electronics_projects/releases/download/Proyecto_09/09_esp8266_accessPoint.zip) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](#)
 
 ---
 
