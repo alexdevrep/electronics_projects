@@ -39,7 +39,7 @@ Aquí tienes la lista de los proyectos hechos hasta el momento:
 ### 1. Toggle LED with Python
 En este proyecto controlamos el estado de un diodo LED con el teclado y un script en Python.
 
-[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](#) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/encender-y-apagar-de-un-led-con-python/)
+[![Descargar](https://img.shields.io/badge/Descargar-Directamente-brightgreen)](alexdevrep/electronics_projects/raw/mainProyectos/01_Led_toogle_python/to/01_Led_toogle_python.zip) [![Documentación](https://img.shields.io/badge/Documentación-Detallada-blue)](https://eltallerdealexdevrep.com/encender-y-apagar-de-un-led-con-python/)
 
 ---
 
